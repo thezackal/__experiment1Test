@@ -3,5 +3,6 @@
   "age": 43,
   "address": "unknown",
   "score": 7,
-  "occupation": "architect"
+  "occupation": "architect",
+  "height": 1.75
 }
