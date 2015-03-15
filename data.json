@@ -1,5 +1,7 @@
 {
   "name": "robin townsend",
   "age": 43,
-  "address": "unknown"
+  "address": "unknown",
+  "score": 7,
+  "occupation": "architect"
 }
